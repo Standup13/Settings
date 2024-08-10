@@ -39,11 +39,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Leonard Alejandro Mares Padron**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@Standup13](https://github.com/Standup13)
+- Twitter: [@LeonardMares13](https://twitter.com/LeonardMares13)
+- LinkedIn: [Leonard Mares](https://www.linkedin.com/in/leonard-mares-31b47822a/)
+
 
 👤 **Author2**
 
